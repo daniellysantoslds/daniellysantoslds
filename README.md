@@ -1,6 +1,6 @@
 ### Hi Guys 👋🏾
 
-- 👩🏾‍🎓 I am 19 years old and I am a Business Administration student at UFPE
+- 👩🏾‍🎓 I am 23 years old and I am a Business Administration student at UFPE
 
 - 🍎 Apple Developer Academy Student
 - 🌱 I’m currently learning Swift and Web development
