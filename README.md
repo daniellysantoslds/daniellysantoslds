@@ -1,10 +1,9 @@
-### Hi Guys 👋🏾
+### Olá Pessoas 👋🏾
 
-- 👩🏾‍🎓 I am 23 years old and I am a Business Administration student at UFPE
-
-- 🍎 Apple Developer Academy Student
-- 🌱 I’m currently learning Swift and Web development
-- 🤔 I'm interested in programming languages, building digital products and UX Designer
+- 👩🏾‍🎓 Tenho 23 anos e sou estudante de Administração na UFPE
+- 🍎 Aluna na Apple Developer Academy
+- 🌱 Atualmente estou aprendendo Swift e desenvolvimento Web
+- 🤔 Tenho interesse em linguagens de programação, construção de produtos digitais e UX Designer
 
 
 
