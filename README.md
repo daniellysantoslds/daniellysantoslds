@@ -1,7 +1,7 @@
 ### Olá Pessoas 👋🏾
 
 - 👩🏾‍🎓 Tenho 23 anos e sou estudante de Administração na UFPE
-- 🍎 Aluna na Apple Developer Academy
+- 🍎 Aluna na Apple Developer Academy - UFPE
 - 🌱 Atualmente estou aprendendo Swift e desenvolvimento Web
 - 🤔 Tenho interesse em linguagens de programação, construção de produtos digitais e UX Designer
 
