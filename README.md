@@ -6,10 +6,11 @@
 - 🤔 Tenho interesse em linguagens de programação, construção de produtos digitais e UX Designer
 
 
-
-
-<div>
 <a href="https://www.linkedin.com/in/daniellysantoslds-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<!--
+<div>
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -21,3 +22,4 @@
 -->
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=daniellysantoslds&show_icons=true) -->
+-->
