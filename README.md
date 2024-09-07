@@ -1,9 +1,6 @@
 ### Olá Pessoas 👋🏾
 
-- 👩🏾‍🎓 Tenho 23 anos e sou estudante de Administração na UFPE
-- 🍎 Aluna na Apple Developer Academy - UFPE
-- 🌱 Atualmente estou aprendendo Swift e desenvolvimento Web
-- 🤔 Tenho interesse em linguagens de programação, construção de produtos digitais e UX Designer
+- 🍎 Alumni na Apple Developer Academy - UFPE
 
 
 <a href="https://www.linkedin.com/in/daniellysantoslds-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
